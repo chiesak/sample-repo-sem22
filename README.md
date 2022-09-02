@@ -1,2 +1,2 @@
 # sample-repo-sem22
-git practice
+更新
